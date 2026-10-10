@@ -1,3 +1,5 @@
 /.vs
 /packages
 /x64
+config.bat
+node_modules
